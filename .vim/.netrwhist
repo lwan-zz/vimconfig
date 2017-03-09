@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc/modprobe.d'
+let g:netrw_dirhist_2='/home/lwan/cmu/16-662_hw2'
+let g:netrw_dirhist_3='/home/lwan/cmu/fsr17-pit-exploration'
+let g:netrw_dirhist_4='/home/lwan/cmu/fsr17-pit-exploration/wet/src/map_utils'
